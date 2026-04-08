@@ -1,24 +1,19 @@
-<h1 align="center">Hi there 👋, I'm Rakesh Mistri</h1>
-<h3 align="center">💻 Computer Science Student | Programmer | Developer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=CS+Student+%40+Calcutta+University;App+Developer+%7C+Web+Developer;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there ðŸ‘‹, I'm Rakesh Mistri</h1>
+<h3 align="center">ðŸ’» Computer Science Student | Programmer | Developer</h3>
 
 ---
 
-### 🙋‍♂️ About Me
+### ðŸ™‹â€â™‚ï¸ About Me
 
-- 🎓 **Computer Science Student** from **Calcutta University**
-- 📱 Currently building **Android/Flutter Apps**
-- 🌐 Learning **Web Development** (HTML, CSS & more)
-- 🧠 Practicing **Data Structures & Algorithms** in C
-- 🔗 Connect with me on **[LinkedIn](https://www.linkedin.com/in/rakesh-mistri-0a0a2932b/)**
-- 😄 Pronouns: **he/him**
+- ðŸŽ“ **Computer Science Student** from **Calcutta University**
+- ðŸ“± Currently building **Android/Flutter Apps**
+- ðŸŒ Learning **Web Development** (HTML, CSS & more)
+- ðŸ§  Practicing **Data Structures & Algorithms** in C
+- ðŸ˜„ Pronouns: **he/him**
 
 ---
 
-### 🛠️ Tech Stack
+### ðŸ› ï¸ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -32,7 +27,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### ðŸ“Š GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
@@ -45,7 +40,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### ðŸ† GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rakeshmistri00&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -53,22 +48,28 @@
 
 ---
 
-### 📌 Featured Projects
+### ðŸ“Œ Featured Projects
 
 | Project | Description | Language |
 |--------|-------------|----------|
-| [📘 Learning-code](https://github.com/Rakeshmistri00/Learning-code) | Code practice & learning journey | C |
-| [🌐 Web-Dev](https://github.com/Rakeshmistri00/Web-Dev) | Web development projects with HTML & CSS | HTML |
-| [🧮 DSA](https://github.com/Rakeshmistri00/DSA) | Basics to Advanced DSA programs | C |
-| [📱 App-Dev](https://github.com/Rakeshmistri00/App-Dev) | Android app development with Flutter/Dart | Dart |
+| [ðŸ“˜ Learning-code](https://github.com/Rakeshmistri00/Learning-code) | Code practice & learning journey | C |
+| [ðŸŒ Web-Dev](https://github.com/Rakeshmistri00/Web-Dev) | Web development projects with HTML & CSS | HTML |
+| [ðŸ§® DSA](https://github.com/Rakeshmistri00/DSA) | Basics to Advanced DSA programs | C |
+| [ðŸ“± App-Dev](https://github.com/Rakeshmistri00/App-Dev) | Android app development with Flutter/Dart | Dart |
 
 ---
 
-### 🔗 Connect With Me
+### ðŸ”— Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rakesh-mistri-0a0a2932b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/__nil__9273" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/rakesh.nil" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   <a href="https://github.com/Rakeshmistri00" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -81,4 +82,5 @@
   <img src="https://komarev.com/ghpvc/?username=Rakeshmistri00&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
+<p align="center">â­ <i>If you like my work, consider starring my repos!</i> â­</p>
+
