@@ -4,20 +4,20 @@
 ---
 
 ### 🙋‍♂️ About Me
-
 - 🎓 **Computer Science Student** from **Calcutta University**
 - 📱 Currently building **Android/Flutter Apps**
 - 🌐 Learning **Web Development** (HTML, CSS & more)
 - 🧠 Practicing **Data Structures & Algorithms** in C
+- ☕ Learning **Object Oriented Programming** with **Java**
 - 😄 Pronouns: **he/him**
 
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -32,7 +32,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Rakeshmistri00&theme=tokyonight&hide_border=true" width="70%" />
 </p>
@@ -40,18 +39,17 @@
 ---
 
 ### 📌 Featured Projects
-
 | Project | Description | Language |
 |--------|-------------|----------|
 | [📘 Learning-code](https://github.com/Rakeshmistri00/Learning-code) | Code practice & learning journey | C |
 | [🌐 Web-Dev](https://github.com/Rakeshmistri00/Web-Dev) | Web development projects with HTML & CSS | HTML |
 | [🧮 DSA](https://github.com/Rakeshmistri00/DSA) | Basics to Advanced DSA programs | C |
 | [📱 App-Dev](https://github.com/Rakeshmistri00/App-Dev) | Android app development with Flutter/Dart | Dart |
+| [☕ OOP-Java](https://github.com/Rakeshmistri00/OOP-Java) | Object Oriented Programming concepts with Java | Java |
 
 ---
 
 ### 🔗 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/rakesh-mistri-0a0a2932b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -72,5 +70,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rakeshmistri00&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
 <p align="center">⭐ <i>If you like my work, consider starring my repos!</i> ⭐</p>
