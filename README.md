@@ -45,7 +45,7 @@
 | [🌐 Web-Dev](https://github.com/Rakeshmistri00/Web-Dev) | Web development projects with HTML & CSS | HTML |
 | [🧮 DSA](https://github.com/Rakeshmistri00/DSA) | Basics to Advanced DSA programs | C |
 | [📱 App-Dev](https://github.com/Rakeshmistri00/App-Dev) | Android app development with Flutter/Dart | Dart |
-| [☕ OOP-Java](https://github.com/Rakeshmistri00/OOP-Java) | Object Oriented Programming concepts with Java | Java |
+| [☕ Object-Oriented-JAVA](https://github.com/Rakeshmistri00/Object-Oriented-JAVA) | Object Oriented Programming concepts with Java | Java |
 
 ---
 
