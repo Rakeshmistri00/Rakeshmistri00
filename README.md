@@ -20,12 +20,10 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,html,css,git,github,vscode,linux,androidstudio"/>
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,cs,dart,flutter,html,css,js,react,nodejs,mysql,firebase,git,github,vscode,androidstudio,linux" />
 </p>
-
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
