@@ -32,17 +32,9 @@
 <img src="https://streak-stats.demolab.com?user=Rakeshmistri00&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshmistri00&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
+<h2 align="center">📌 ##Featured Projects </h2>
 
 <table align="center">
 <tr>
