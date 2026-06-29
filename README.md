@@ -29,10 +29,8 @@
 
 ## 📊 GitHub Statistics
 
-
-
 <p align="center">
-  <img src="images/my-streak.png" width="70%">
+  <img src="https://streak-stats.demolab.com?user=Rakeshmistri00&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
 </p>
 
 ## 📈 Contribution Graph
