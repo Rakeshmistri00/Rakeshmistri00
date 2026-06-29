@@ -2,7 +2,7 @@
 
 <h3 align="center">💻 Computer Science • Programmer • Developer</h3>
 
-<h1 align="center">Hi 👋, I'm Rakesh Mistri</h1>
+
 
 <h3 align="center">
 Computer Science Student • Software Developer • Problem Solver
@@ -11,7 +11,7 @@ Computer Science Student • Software Developer • Problem Solver
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Scalable+Applications;Flutter+%7C+Java+%7C+Web+Development;Data+Structures+%26+Algorithms;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 </p>
----
+
 
 ## 🚀 About Me
 
