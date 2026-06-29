@@ -49,17 +49,46 @@
 
 ---
 
-## 📌 Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
-| Project                    | Description                           |
-| -------------------------- | ------------------------------------- |
-| 📘 **Learning-code**       | Code practice and programming journey |
-| 🌐 **Web-Dev**             | HTML & CSS projects                   |
-| 🧮 **DSA**                 | Data Structures & Algorithms in C     |
-| 📱 **App-Dev**             | Flutter & Dart Android projects       |
-| ☕ **Object-Oriented-JAVA** | Java OOP concepts and examples        |
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Language</th>
+</tr>
 
----
+<tr>
+<td><a href="https://github.com/Rakeshmistri00/Learning-code">📘 Learning-code</a></td>
+<td>Programming practice & learning journey</td>
+<td>C</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Rakeshmistri00/Web-Dev">🌐 Web-Dev</a></td>
+<td>HTML & CSS Projects</td>
+<td>HTML/CSS</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Rakeshmistri00/DSA">🧮 DSA</a></td>
+<td>Data Structures & Algorithms</td>
+<td>C</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Rakeshmistri00/App-Dev">📱 App-Dev</a></td>
+<td>Flutter Android Projects</td>
+<td>Dart</td>
+</tr>
+
+<tr>
+<td><a href="https://github.com/Rakeshmistri00/Object-Oriented-JAVA">☕ Object-Oriented-JAVA</a></td>
+<td>Java OOP Programs</td>
+<td>Java</td>
+</tr>
+
+</table>
 
 ## 🏆 GitHub Trophies
 
