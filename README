@@ -1,27 +1,24 @@
-```markdown
 <h1 align="center">Hi there 👋, I'm Rakesh Mistri</h1>
 
-<h3 align="center">
-💻 Computer Science Student • Programmer • Developer
-</h3>
+<h3 align="center">💻 Computer Science Student • Programmer • Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student @ **University of Calcutta**
-- 💻 Passionate about Programming & Software Development
-- 📱 Flutter & Android Development
-- 🌐 Learning Full-Stack Web Development
-- ☕ Java • C • C++ • DSA
-- 🚀 Code • Learn • Build • Improve
+* 🎓 Computer Science Student @ **University of Calcutta**
+* 💻 Passionate about Programming & Software Development
+* 📱 Flutter & Android Development
+* 🌐 Learning Full-Stack Web Development
+* ☕ Java • C • C++ • DSA
+* 🚀 Code • Learn • Build • Improve
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,html,css,git,github,vscode,linux,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,html,css,git,github,vscode,linux,androidstudio" />
 </p>
 
 ---
@@ -29,13 +26,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmistri00&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmistri00&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Rakeshmistri00&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Rakeshmistri00&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -43,27 +39,27 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshmistri00&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshmistri00&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [📘 Learning-code](https://github.com/Rakeshmistri00/Learning-code) | Programming practice & learning journey | C |
-| [🌐 Web-Dev](https://github.com/Rakeshmistri00/Web-Dev) | HTML & CSS projects | HTML/CSS |
-| [🧮 DSA](https://github.com/Rakeshmistri00/DSA) | Data Structures & Algorithms | C |
-| [📱 App-Dev](https://github.com/Rakeshmistri00/App-Dev) | Flutter Android projects | Flutter |
-| [☕ Object-Oriented-JAVA](https://github.com/Rakeshmistri00/Object-Oriented-JAVA) | Java OOP programs | Java |
+| Project                                                                          | Description                             | Language |
+| -------------------------------------------------------------------------------- | --------------------------------------- | -------- |
+| [📘 Learning-code](https://github.com/Rakeshmistri00/Learning-code)              | Programming practice & learning journey | C        |
+| [🌐 Web-Dev](https://github.com/Rakeshmistri00/Web-Dev)                          | HTML & CSS Projects                     | HTML/CSS |
+| [🧮 DSA](https://github.com/Rakeshmistri00/DSA)                                  | Data Structures & Algorithms            | C        |
+| [📱 App-Dev](https://github.com/Rakeshmistri00/App-Dev)                          | Flutter Android Projects                | Dart     |
+| [☕ Object-Oriented-JAVA](https://github.com/Rakeshmistri00/Object-Oriented-JAVA) | Java OOP Programs                       | Java     |
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rakeshmistri00&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rakeshmistri00&theme=tokyonight&column=4&no-frame=true" />
 </p>
 
 ---
@@ -93,14 +89,11 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rakeshmistri00&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Rakeshmistri00&label=Profile+Views&style=for-the-badge&color=0e75b6" />
 </p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
 
 <p align="center">
-If you like my work, consider ⭐ starring my repositories.
+If you like my work, consider <b>⭐ starring my repositories.</b>
 </p>
-```
