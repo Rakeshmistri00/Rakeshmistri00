@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there 👋, I'm Rakesh Mistri</h1>
 
-<h3 align="center">💻 Computer Science Student • Programmer • Developer</h3>
+<h3 align="center">💻 Computer Science • Programmer • Developer</h3>
 
 
 
