@@ -1,48 +1,41 @@
-# <h1 align="center">Hi there 👋, I'm Rakesh Mistri</h1>
+```markdown
+<h1 align="center">Hi there 👋, I'm Rakesh Mistri</h1>
 
-<h3 align="center">💻 Computer Science Student • Programmer • Developer</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Programmer;Flutter+Developer;Full-Stack+Developer;Always+Learning+New+Things"/>
-</p>
+<h3 align="center">
+💻 Computer Science Student • Programmer • Developer
+</h3>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Student @ **University of Calcutta**
-* 💻 Passionate about Software Development & Problem Solving
-* 📱 Exploring Android Development with Flutter
-* 🌐 Learning Full-Stack Web Development
-* ☕ Java • DSA • C • C++
-* 🚀 Code • Learn • Build • Improve
+- 🎓 Computer Science Student @ **University of Calcutta**
+- 💻 Passionate about Programming & Software Development
+- 📱 Flutter & Android Development
+- 🌐 Learning Full-Stack Web Development
+- ☕ Java • C • C++ • DSA
+- 🚀 Code • Learn • Build • Improve
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=c,cpp,java,dart,flutter,html,css,git,github,vscode,linux,androidstudio"/>
-
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmistri00&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Rakeshmistri00&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -50,31 +43,27 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakeshmistri00&theme=tokyo-night&hide_border=true"/>
-
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-| Project                    | Description                           |
-| -------------------------- | ------------------------------------- |
-| 📘 **Learning-code**       | Code practice and programming journey |
-| 🌐 **Web-Dev**             | HTML & CSS projects                   |
-| 🧮 **DSA**                 | Data Structures & Algorithms in C     |
-| 📱 **App-Dev**             | Flutter & Dart Android projects       |
-| ☕ **Object-Oriented-JAVA** | Java OOP concepts and examples        |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [📘 Learning-code](https://github.com/Rakeshmistri00/Learning-code) | Programming practice & learning journey | C |
+| [🌐 Web-Dev](https://github.com/Rakeshmistri00/Web-Dev) | HTML & CSS projects | HTML/CSS |
+| [🧮 DSA](https://github.com/Rakeshmistri00/DSA) | Data Structures & Algorithms | C |
+| [📱 App-Dev](https://github.com/Rakeshmistri00/App-Dev) | Flutter Android projects | Flutter |
+| [☕ Object-Oriented-JAVA](https://github.com/Rakeshmistri00/Object-Oriented-JAVA) | Java OOP programs | Java |
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=Rakeshmistri00&theme=tokyonight&no-frame=true&column=4"/>
-
 </p>
 
 ---
@@ -87,7 +76,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/__nil__9273?igsh=MjdveGh6a3hxcDly">
+<a href="https://www.instagram.com/__nil__9273">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -104,19 +93,14 @@
 ---
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Rakeshmistri00&style=for-the-badge&color=blue"/>
-
 </p>
 
 <h3 align="center">
-
-✨ Thanks for visiting my profile! ✨
-
+⭐ Thanks for visiting my profile! ⭐
 </h3>
 
 <p align="center">
-
-⭐ If you like my work, consider starring my repositories.
-
+If you like my work, consider ⭐ starring my repositories.
 </p>
+```
