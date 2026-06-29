@@ -1,4 +1,4 @@
-```html
+<html>
 <h1 align="center">Hi 👋, I'm Rakesh Mistri</h1>
 
 <h3 align="center">
