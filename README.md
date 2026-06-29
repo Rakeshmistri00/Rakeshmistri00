@@ -30,9 +30,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&include_all_commits=true&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmistri00&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmistri00&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ## 📈 Contribution Graph
