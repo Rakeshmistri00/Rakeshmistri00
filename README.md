@@ -90,15 +90,7 @@
 
 </table>
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rakeshmistri00&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
 
 ## 🔗 Connect With Me
 
