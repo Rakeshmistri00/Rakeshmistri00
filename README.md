@@ -28,11 +28,13 @@
 ---
 
 ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rakeshmistri00&theme=tokyonight&hide_border=true&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmistri00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
 ## 📈 Contribution Graph
 
 <p align="center">
