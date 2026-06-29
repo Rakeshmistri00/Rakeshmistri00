@@ -32,12 +32,8 @@
 
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Rakeshmistri00&theme=tokyonight&hide_border=true"/>
-
+  <img src="images/my-streak.png" width="70%">
 </p>
-
----
 
 ## 📈 Contribution Graph
 
