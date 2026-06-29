@@ -8,7 +8,7 @@ Computer Science Student • Technology Enthusiast • Future Software Engineer
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Think.+Design.+Build.;Transforming+Ideas+Into+Software.;Continuous+Learning.;Passionate+About+Innovation.;Striving+for+Excellence." />
 </p>
-```
+
 
 
 
