@@ -3,13 +3,17 @@
 
 ---
 
-### 🙋‍♂️ About Me
-- 🎓 **Computer Science Student** from **Calcutta University**
-- 📱 Currently building **Android/Flutter Apps**
-- 🌐 Learning **Web Development** (HTML, CSS & more)
-- 🧠 Practicing **Data Structures & Algorithms** in C
-- ☕ Learning **Object Oriented Programming** with **Java**
-- 😄 Pronouns: **he/him**
+## 🚀 About Me
+
+```text
+🎓 Computer Science @ University of Calcutta
+💻 Building • Learning • Innovating
+📱 Mobile Development
+🌐 Full-Stack Development
+⚙️ Problem Solving
+🚀 Code. Create. Improve. Repeat.
+```
+
 
 ---
 
