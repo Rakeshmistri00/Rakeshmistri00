@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Mistri</h1>
 
 <h3 align="center">
-Computer Science Student • Technology Enthusiast • Future Software Engineer
+Computer Science  • Technology Enthusiast •  Software Engineer
 </h3>
 
 <p align="center">
@@ -14,7 +14,7 @@ Computer Science Student • Technology Enthusiast • Future Software Engineer
 
 ## 🚀 About Me
 
-* 🎓 Computer Science Student @ **University of Calcutta**
+* 🎓 Computer Science  @ **University of Calcutta**
 * 💻 Passionate about Software Development & Problem Solving
 * 📱 Exploring Android Development with Flutter
 * 🌐 Learning Full-Stack Web Development
