@@ -2,7 +2,9 @@
 
 <h3 align="center">💻 Computer Science • Programmer • Developer</h3>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+Developer;Flutter+Developer;Problem+Solver;DSA+Enthusiast;Full-Stack+Learner" />
+</p>
 
 ---
 
