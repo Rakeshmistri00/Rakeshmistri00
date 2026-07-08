@@ -30,12 +30,8 @@ Computer Science  • Technology Enthusiast •  Software Engineer
 </p>
 
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Rakeshmistri00&theme=tokyonight&hide_border=true" />
-</p>
 
 <h2 align="center">📌Featured Projects </h2>
 
