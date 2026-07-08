@@ -124,8 +124,6 @@ mindset:      "Continuous learner, always exploring new tech"
 <img src="https://github-readme-stats.vercel.app/api?username=Rakeshmistri00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshmistri00&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakeshmistri00&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
 </div>
 
 <br/>
