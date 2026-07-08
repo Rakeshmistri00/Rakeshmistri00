@@ -117,11 +117,10 @@ mindset:      "Continuous learner, always exploring new tech"
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshmistri00&theme=tokyonight&hide_border=true" width="48%"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakeshmistri00&theme=tokyonight&hide_border=true" width="900" />
 </div>
 
 <br/>
